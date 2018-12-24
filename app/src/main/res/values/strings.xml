@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShortcutsDemo</string>
+    <string name="play_shortcut_short_label1">播放</string>
+    <string name="play_shortcut_long_label1">播放音乐</string>
+    <string name="play_disabled_message1">为什么这个按钮被禁用了</string>
+    <string name="btn_send">Play</string>
+    <string name="btn_play">Play</string>
+
+</resources>
